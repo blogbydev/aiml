@@ -1,0 +1,3 @@
+sachit@iiitb.ac.in
+Sachit Rao
+https://archive.ics.uci.edu/dataset/73/mushroom
